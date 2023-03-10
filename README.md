@@ -16,6 +16,6 @@ reverse proxy that run on port 80 and forwarding request to flask server
   * the jenkins agent is a windows machine
   * job-dsl pluggin 
   * create credentials in jenkins (the username must be amir2023,will be fixed in next update)
-  * create freestyle poject and use my configuration (;;
+  * create freestyle poject and use my configuration (;
   
   
